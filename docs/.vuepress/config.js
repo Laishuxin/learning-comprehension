@@ -6,7 +6,7 @@ const sidebar = require('./config/sidebar_config')
 const BLOG_AUTHOR = process.env.BLOG_AUTHOR || 'ru shui'
 
 module.exports = config({
-  base: '/Blog_vuepress/',
+  base: '/learning-comprehension/',
   lang: 'zh-CN',
   title: 'Ru Shui',
   description: `To Build Amazing Things !`,
