@@ -5,7 +5,12 @@ const basePath = resolve(__dirname, '../../')
 const sidebar = {
   '/cate/psychology/': getPsychology('积极心理学'),
   '/cate/english/': getEnglish('翻译'),
-  '/cate/': ['psychology/', 'english']
+  '/cate/': ['psychology/', 'english/'],
+}
+
+function getCate () {
+  const path = resolve(basePath, './cate/') 
+  return getFileNames(path)
 }
 
 function getPsychology(groupA) {
