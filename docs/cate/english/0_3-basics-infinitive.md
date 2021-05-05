@@ -2,7 +2,7 @@
 title: 不定式
 time: 2021-05-03
 author: ru shui
-category: english
+category: English
 tag:
   - basics
   - infinitive
