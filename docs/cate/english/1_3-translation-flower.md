@@ -24,6 +24,8 @@ Plum blossom, which ranks first among the top ten famous flowers in China, origi
 
 ### lotus
 
+Lotus, as one of the most famous flowers in China, is deeply loved by people. Many lakes and ponds in China are suitable for lotus to grow. Featuring bright color, lotus blooms in the morning and closes in the evening during summer with a long flowering period of two to three months, which attracts visitors from all over the world to appreciate it. With multiple functions, lotus not only can green the water surface, but also can beautify the garden, purify the water quality, reduce pollution, and improve the environment. It is not afraid to face the scorching sun and can rise unsullied from mud. As a symbol of purify and elegance, lotus is often used as a metaphor for people's noble characters and had been an important subject for poets and painters. The place where the lotus is in full bloom is also frequented by many photography lovers.
+
 ## key structures
 
 ### feature bright color and graceful (elegant) shape: 色彩鲜艳和造型优雅
@@ -58,7 +60,7 @@ Plum blossom, which ranks first among the top ten famous flowers in China, origi
 
 - tourists from home and abroad pour in (flock to) Luoyang.
 
-### the capitabl of nine dynasties: 九朝古都
+### the capital of nine dynasties: 九朝古都
 
 - Luoyang, the capital of nine dynasties.
 
@@ -91,3 +93,11 @@ Plum blossom, which ranks first among the top ten famous flowers in China, origi
 ### in the snow in spite of the cold: 冒着严寒，踏雪而来
 
 - Thousands of people visit Meihua Mountain to admire the plum blossom in the snow in spite of the cold.
+
+### rise unsullied from mud: 出淤泥而不染
+
+- Lotus rises unsullied from mud.
+
+### as a metaphor for x: 作为 x 的隐喻
+
+- Lotus are often used as a metaphor for people's noble characters.
