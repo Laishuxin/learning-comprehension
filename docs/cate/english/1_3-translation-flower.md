@@ -101,3 +101,24 @@ Lotus, as one of the most famous flowers in China, is deeply loved by people. Ma
 ### as a metaphor for x: 作为 x 的隐喻
 
 - Lotus are often used as a metaphor for people's noble characters.
+
+## vocabulary
+
+1. peony (a flower)
+2. bright (contrastive)
+3. cultivate (plant)
+4. praise (appreciate, applause)
+5. dynasty
+6. capital
+7. lotus (a flower)
+8. pond (like lake)
+9. bloom (an opening process of a flower)
+10. scorching (very hot)
+11. unsullied (rise unsullied from mud)
+12. metaphor
+13. frequented (a place people go there frequently)
+14. plum blossom (a flower)
+15. individual (a person)
+16. forge
+17. masterpiece (great work)
+18. designate (be regarded as)

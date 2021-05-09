@@ -78,3 +78,17 @@ Qinghai-Tibet Railway is the highest and longest plateau railway in the world wi
 
 - After the opening of the railway, more and more people choose to Tibet by train, so that they will have the opportunity to enjoy the beautiful scenery along the line.
 - After the railway's operation, more and more...
+
+## vocabulary
+
+1. exert (it something exerts influence, they use it in a strong or determined way / special effect)
+2. compact (closely)
+3. boarding gate
+4. volume
+5. feat
+6. integration
+7. stimulate (improve, encourage, promote)
+8. prosperity
+9. plateau (a large flat area)
+10. vulnerable (fragile)
+11. resident (local citizen)
