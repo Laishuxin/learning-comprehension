@@ -73,5 +73,27 @@ It is adj that A should have done something. (表示惊讶)
 3. 预测未来。
    A should have done by this time tomorrow.
 
- <!-- TODO(rushui 2021-05-09): fill with it. -->
 ## need
+
+### 自带温柔光环
+
+need sb. to do.
+Ex1:
+
+- Put away your toys now.
+- I need you to put away your toys now.
+
+### 暗含深意
+
+sth. needs to be done = sth. need doing. (谁都不想做)
+Ex1:
+
+- The trash needs to be taken out.
+- The trash needs taking out.
+
+### 祈使口吻
+
+Ex1:
+
+- Don't smoke.
+- I need you not to smoke.
