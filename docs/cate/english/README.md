@@ -11,6 +11,8 @@ sticky: true
 - [英语基础 - 情态动词](./0_1-basics-modal-verbs.md)
 - [英语基础 - 虚拟语气](./0_2basics-subjunctive.md)
 - [英语基础 - 不定式](./0_3-basics-infinitive.md)
+- [英语基础 - 时态](./0_5-basics-tense.md)
+- [英语基础 - 从句](./0_4-basics-clause.md)
 
 
 ## translation

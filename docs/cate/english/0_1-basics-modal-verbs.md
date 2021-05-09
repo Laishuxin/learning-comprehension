@@ -10,7 +10,9 @@ visitor: false
 article: true
 sticky: false
 ---
+
 [[toc]]
+
 ## should
 
 ### should have done
@@ -39,30 +41,37 @@ You should have called us.
    - "Perfume eh?" he asked sarcastically. "You should have declared that. Perfume is not exempt from import duty."
 
 #### 表示惊讶
+
 It is adj that A should have done something. (表示惊讶)
 
 - It is astonishing that he should have failed the exam.
-   
-   (很吃惊，他考试没有及格。)
+  (很吃惊，他考试没有及格。)
 - It is strange that he should have left without telling us.
 
-   (很奇怪，他竟然没说一声就走了)
+  (很奇怪，他竟然没说一声就走了)
 
 - It is amazing that she should have said nothing about it.
 
-   (很惊讶，她居然什么都没说。)
+  (很惊讶，她居然什么都没说。)
 
 #### 推测未来
+
 与某个截止时间连用，用于推测未来。
+
 - He should have arrived in Beijing by this time tomorrow.
 
-
 ## summary
+
 ### should
+
 #### should have done
+
 1. 预期与现实的落差。
    A should have done. (Depending on the context.)
 2. 表示惊讶。
    It is xxx that A should have done.
 3. 预测未来。
    A should have done by this time tomorrow.
+
+ <!-- TODO(rushui 2021-05-09): fill with it. -->
+## need
