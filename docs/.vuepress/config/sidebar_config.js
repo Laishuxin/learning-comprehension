@@ -4,7 +4,7 @@ const basePath = resolve(__dirname, '../../')
 
 const sidebar = {
   '/cate/psychology/': getPsychology('积极心理学'),
-  '/cate/english/': getEnglish('基础', '翻译'),
+  '/cate/english/': getEnglish('基础', '翻译', '词汇'),
   '/cate/': ['psychology/', 'english/']
 }
 
