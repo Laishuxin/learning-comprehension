@@ -104,3 +104,4 @@ dist
 .tern-port
 temp
 code/fe_base/javascript_base/3Promise/tsconfig.json
+temp*
