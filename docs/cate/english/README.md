@@ -21,4 +21,7 @@ sticky: true
 - [英语翻译 - 花卉](./1_3-translation-flower.md)
 - [英语翻译 - 语言](./1_4-transition-language.md)
 
+## reading 
+- [英语精读 - 经济学人 - English-medium education](./2_1-reading-economist-1.md)
+
 ## vocabulary
