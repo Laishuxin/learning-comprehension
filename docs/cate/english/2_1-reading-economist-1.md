@@ -21,7 +21,23 @@ When Winston Churchill was at Harrow School, he was in the lower stream. This di
 
 Partly thanks to Churchill and the post-war Anglo-American ascendancy, English is these days prized, not despised. Over a billion people speak it as either their first or second language; more still as a third or fourth language. English perfectly exemplifies the "network effect": the more people use it, the more useful is it. English is the language of international business, law, science, medicine, entertainment and--since the second world war, to the fury of the French--diplomacy.
 
-Anybody who wants to make their way in the world must speak it. All of which, of course, be of great benefit to this newspaper, which has floated on a rising linguistic tide.
+Anybody who wants to make their way in the world must speak it. All of which has, of course, been of great benefit to this newspaper, which has floated on a rising linguistic tide.
+
+It is not surprising that there is **surge** in English-medium education all over the world.
+
+In some regions -- such as East Asia and Latin American, the growth is principally among the rich. In others--Africa and South Asia, where former colonies never quite escaped the language's grip--it is happening at all income levels.
+
+Parents' desire for their children to master English is spurring the the growth of private schooling; parents in the **slums** of Delhi and Lagos buy English-medium education **in the hope that** their children would gain a university degree, obtain good jobs and even join a glittering world of global professionals.
+
+Where private sector leads, governments are following.
+
+Some countries have long chosen to teach in English as a political expedient, because a local language would prove contentious.
+
+But even where public schools teach children in their mother tongue, education authorities are switching to English medium, in part ot stem the outflow into the private sector.
+
+That has happened in Punjab and Khyber Pakhtunkhwa in Pakistan; many Indian states have started large or small English-medium experiments.
+
+In Africa most children are supported to be taught in a local language in the first few years, but often, **through** parental pressure or a lack of textbooks, it does not happen.
 
 ## vocabulary
 
@@ -45,6 +61,37 @@ Anybody who wants to make their way in the world must speak it. All of which, of
 10. partly: adv. 一定程度上
 11. exemplify: v. 是……的范例，代表了
     - The building exemplifies the style of architecture which was popular at the time. （这栋大楼**代表了**当时流行的建筑风格。）
+12. surge: n.激增，热潮
+
+    - a surge in inflation: 通货膨胀激增
+    - a surge in smartphone sales: 智能手机销量激增。
+      <br />
+      相似词汇：
+      fashion，vogue，fever，trend，fad，sth is all the rage
+
+13. principally: adv. 主要地
+14. spur: v. 促进，n. 马刺
+    - Deprecating the yuan would encourage/spur China's exports to the U.S.
+15. grip: v. 抓住，影响
+    - The government **keeps a tight grip** on social media.（政府严格**管控**社交媒体）
+    - The country was **plagued/gripped** by economic problems.（这个国家**饱受**经济问题的困扰）
+    - Soccer fever has **gripped/been sweeping** the nation during the World Cup.（世界杯期间，足球热**席卷**全国。）
+16. slum: n. 贫民窟
+17. glittering: adj. 闪光的，
+    - I hope you have a glittering career ahead of you.（祝你前程似锦）
+18. world: n. 圈子，领域
+    - the business world（商业圈）
+    - the academic world（学术圈）
+19. expedient: n. 权宜之计，应急之计(= a quick and effective way of dealing with a problem)
+
+- The disease was controlled by the simple **expedient** of not allowing anyone to leave the city.（通过禁止任何人出城的简单**应急办法**，疾病得到了控制。）
+
+20. contentious: adj. 容易引发争议的
+
+    - It was also a reminder of how contentious and how unexpected China's expanding censorship has become.（这也提醒人们，中国日益趋严的网络审查已经变得有多门**容易引发争议**，多么难以预测）
+
+21. stem: n.茎，v. 阻止
+    - **Stem** the tide of illegal immigration.（阻止非法以名的热潮）
 
 ## key structures
 
@@ -148,3 +195,85 @@ of + n = adj
 
 - which **has floated on a rising** linguistic **tide**.
 - China's middle-class floated on a rising economic tide. （中国中产阶层随着经济发展水涨船高。）= With the economic development, ...
+
+### It is not surprising that ...
+
+**It is not surprising that** there is a surge in "English-medium" education all over the world.
+
+It's not surprising that: xxx, 这并不惊讶
+= It's no/little/small wonder that
+
+- **No wonder** there is a surge in "English-medium" education all over the world.（全球各地掀起“英文授课”的教育热潮，这不足为奇）
+- **Small Wonder**, then, that pulse quickened on both sides of the Pacific when Donald Trump, as president-elect, questioned the policy.
+
+- **It may seen surprising** to asset that the genesis of the next crisis is probably lurking in corporate debt.（下一场微积的诱因可能潜伏在企业债务中，这不足为奇。）
+
+### sth is all the rage
+
+all the rage =
+
+- PUBG-like games are **all the rage** among the young.（年轻人之间**掀起**一波吃鸡**热**。）
+
+### never quite
+
+never quite: 用于强调
+
+Africa and South Asia, where former colonies **never quite** escaped the language's grip.
+
+- After the reunion they were able to continue but they were **never quite** the same.（结束异地之后他们可以继续下去了，但是**再也**回不到从前的状态了。）
+
+### 抽象名词代替动词
+
+Ex1: 近期智能手机销量放缓；对行业来说是一个坏消息。
+Sales of smartphone has slowed recently; It is a bad news for the industry.
+
+1. 并列句。<br />
+   Sales of smartphone has slowed recently, and this is a bad news for the industry.
+2. 主语从句。<br />
+   That sales of smartphone has slowed recently is a bad news for the industry.
+3. 定语从句。<br />
+   Sales of smartphone has slowed recently, which is a bad news for the industry.
+4. **抽象名词**。
+   A recent slowing of smartphone is a bad news for the industry.
+
+Ex2: 他总共获得 4404 美元，在奖金名单上位于第 160 位。
+He won a total of \$4404; That put him in 160th place on the money list.
+
+1. 并列句。<br />
+   He won a total of \$4404, and this put him in 160th place on the money list.
+2. 主语从句。<br />
+   That he won a total of \$4404 put him in 160th place on the money list.
+3. 定语从句。
+   He won a total of \$4404, which put him in 160th place on the money list.
+4. **抽象名词**。
+   His winning of a total of \$4404 put him in 160th place on the money list.
+
+### in the hope that
+
+in the hope that = in the hope of doing = hoping: 希望
+
+I came to the island **in the hope of** finding a simply way of life.（我来到这个岛上，希望找到一种朴素的生活方式）
+
+### lead / lead the world in
+
+lead / lead the world in / blaze a trail = 在某方面走在世界的前列
+
+- China leads the world in 5G technology.（中国在 5G 技术方面领先世界）
+- Where tech companies have blazed a trail, others has followed.（科技公司开拓疆土，其他公司紧跟其后）
+- Where starbucks once blazed a trail, chocolatiers are following.（星巴克开拓疆土，其他巧克力产商紧跟其后）
+
+### long
+
+long: 有了一段时间，常用在进行时中。
+
+### switch
+
+switch: 转变。
+
+- By this logic, Donald Trump should stop using the phone or switch to Huawei instead.
+
+### that has happened in
+
+that has happen in: 用于举例。这在……发生了 / ……就是如此。
+
+- Being persistent is an entry ticket to success. That has happened in Forrest Gump.
