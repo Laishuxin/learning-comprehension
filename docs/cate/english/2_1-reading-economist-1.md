@@ -39,6 +39,30 @@ That has happened in Punjab and Khyber Pakhtunkhwa in Pakistan; many Indian stat
 
 In Africa most children are supported to be taught in a local language in the first few years, but often, **through** parental pressure or a lack of textbooks, it does not happen.
 
+Teaching children in English is fine if that is what they say at home or their parents are influent in it.
+
+But this **is not the case** in most public and low-costs private schools.
+
+Children are taught in a language they don't understand by teachers whose English is poor.
+
+The children learn **neither** English **nor** anything else.
+
+Research demonstrates that children learn more when they are taught in their mother tongue **than** they **do** when they are taught in any other language.
+
+**In a study of** children in the first three years in 12 schools in Cameroon, those taught in Kom did better than those taught in English in all subjects.
+
+Parents might **say that** the **point** is to prepare children for workplace, and **that** a grasp of English is more use than sums or history.
+
+Yet by year five the children taught in Kom **outperformed** English-medium children even in English.
+
+Perhaps this is because they **gain a better grasp of the mechanics of** reading and writing when they are learning the skills in a language they understand.
+
+English should be an important subject at school, but not necessarily the language of **instruction**.
+
+Unless they are confident of the standard of English **on offer**, parents should choose mother-tongue education.
+
+**Rather than** switching to English-medium teaching, governments fearful of losing **custom** to the private sector should **look at** the many possible ways of improving public schools-limiting the power of **obstructive** teachers' unions, **say**, or handing them over to private-sector managers and developing good curriculums and so on.
+
 ## vocabulary
 
 1. Babel: different languages.
@@ -90,8 +114,35 @@ In Africa most children are supported to be taught in a local language in the fi
 
     - It was also a reminder of how contentious and how unexpected China's expanding censorship has become.（这也提醒人们，中国日益趋严的网络审查已经变得有多门**容易引发争议**，多么难以预测）
 
-21. stem: n.茎，v. 阻止
+21. stem: n. 茎，v. 阻止
     - **Stem** the tide of illegal immigration.（阻止非法以名的热潮）
+22. point: n. 目的。（the purpose or aim of something）
+    - We are going to lose anyway, so I can't see the **point** of playing.（我们不管怎样都会输，我不明白这样的比赛还有什么意义）
+23. outperform: v. 比……出色
+
+    - A outperforms B = A is better than B
+    - Yet by year five the children taught in Kom outperformed English-medium children even in English.
+
+24. outrun: v. 跑得过
+25. outnumber: v. 比……多
+
+    - We are outnumbered. （我们寡不敌众）
+
+26. out-argue: v. 辩得过
+
+    - Never out-argue your girlfriend.（和女朋友吵架千王别赢）
+
+27. outshine: v. 比……更好，比……更闪耀。
+    - Huawei Mate X first look: foldable phone, **outshine** rival Samsung handset in almost every way.
+28. instruction: n. 用法说明，操作指南
+
+    - instruction on how to do xxx. （**错误示例**：instruction how to do xxx）
+
+29. curriculum: n. 课程。
+    - curriculum vitae(CV)：简历。
+30. introduce: v. （首次）推行，实施（to bring a plan, system or product into use for the first time）
+    - They want to introduce a system identity cards.（他们想**推行**身份证制度）
+    - The store has introduced a new range of food for children.（商店**推出**了一系列新的儿童食品）
 
 ## key structures
 
@@ -277,3 +328,127 @@ switch: 转变。
 that has happen in: 用于举例。这在……发生了 / ……就是如此。
 
 - Being persistent is an entry ticket to success. That has happened in Forrest Gump.
+
+### it is not the case
+
+it us not the case = it does not happen: 事实并非如此
+
+it did in the case of x: x 就是一个例子。
+
+- But **that doest not happen** in most public and private sector.
+- This can get rise to curious situations, as **it did in the case of** Alfred Bloggs who worked as a dustman for the Ellesmere Corporation
+
+### 连接词
+
+英语中的连接词（或连词）有时候**暗含**逻辑关系，应该根据上下文进行翻译。
+
+- He hope to be a doctor or an engineer, **until** the collapse of his parents' marriage, threw him back on pingshu to maintain his seven sisters.
+  他希望成为一名医生或者工程师，**但是**后来父母婚姻破裂，他不得不走上评述的道路，来维持七个妹妹的生计。
+
+util: 直到。但是根据上下文，应当翻译为但是。
+
+the collapse of his parents' marriage = his parents get divorced.
+
+### neither ... nor ...
+
+The children neither learn English nor anything else.（孩子们既没有学到英语，也没有学到其他东西）
+
+**使用规则：**
+
+1. 对称性。neither ... nor 后面可以添加任何成分，但是需要对称。
+
+   - I neither smoke nor drink.
+   - I estimate myself neither highly nor lowly.
+
+2. neither 否定一个，nor 否定另一个。
+
+### 词性替换
+
+Research demonstrates that children learn more when they are taught in their mother tongue **than** they **do** when they are taught in any other language.
+
+这里进行了词性替换。即，do = learn。
+
+- You don't want to **leg** behind. Neither **does** she.（does = leg）
+- You help him since you have promised to **do** so.（你应当帮助他，这是你答应他的）
+
+### than
+
+1. than + 动词：将 than 看成是动词的主语。
+
+   - He played the piano much better **than could have been expected**.
+   - We were kept waiting long **than was absolutely necessary**.
+   - The town offers better cultural advantages **than has been generally supposed**. （这座城镇的文化优势比人们通常认为的更大）
+
+   - That morning we drank more tea **than had been our custom**.
+   - She found the house much more luxuriously furnished **than suited her purpose**.
+     （她发现这座房屋的陈设比**她想象的要豪华得多**。
+
+2) than + 引导词（when, if, ...）
+
+   - You are a little fatter **than when I saw you last time**.
+   - They work better together **than if they are alone**.
+
+### in a study of
+
+in a study of x = research demonstrates that x：一项针对 x 的研究表明。
+
+### 并列句
+
+Parents might **say that** the point is to prepare children for workplace, and **that** a grasp of English is more use than sums and history.
+
+Parents might say that A, and that B.
+
+### a (better) grasp of
+
+a grasp of x = a good command of x = a mastery of x
+
+- A grasp of English is more use than sums and history.（掌握好英语要比算术和历史更有用，）
+
+### be (of) use to sb
+
+be (of) use to sb：对……有用。
+be (of) no use to sb：对……没用。
+
+- You needed blankets to keep warm because the heating **was no use**.（暖气坏了，所以你要盖上毯子保暖。）
+
+### the mechanics of (doing) sth.
+
+mechanic: n. 方法，技巧，规律
+
+the mechanics of (doing) sth：x 的技巧（或方法，规律）。
+
+- Gain a better grasp of the mechanics of reading and writing when they are learning the skills in a language they understand.（更好地掌握阅读和写作的规律）
+
+### on offer
+
+on offer = available = be able to be used: adj. 现有的，有效的
+
+- Customers will evaluate the items **available**.（顾客会评估**现有的**产品）
+- Customers would look at the TVs or dishwashers **on offer**.（顾客会查看**在售的**电视机和洗碗机。）
+- Shoppers enter an electrical store like Best Buy and examin what's **on offer**.（顾客走进百思买这样的电器商店，研究**正在出售的**商品。
+
+### rather than
+
+rather than + 否定：与前面形成对比。应该放在翻译句子的后面。
+
+**使用规则**：
+
+1. 对于已经发生的，参照前面动词的形式。
+
+   - It **rained** rather than **snowed**.
+
+2. 对于尚未发生的，使用动词原形。
+   - Rather than **cause** trouble,, I'm going to forget the whole affair.
+   - He **wanted** to sunbathe rather than **swim**.
+
+### win sb. sth.
+
+win sb. sth. = helpe sb. get sth.：帮助某人得到某物
+
+- That kind of behavior won't **win you friends**.（那样的行为不会帮你交到朋友的）
+
+### cost sb. sth.
+
+cost sb. sth.：让某人失去某物
+
+- A minor mistake costs me my job.（一次小失误让我失去工作）
