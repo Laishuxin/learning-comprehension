@@ -4,7 +4,7 @@ time: 2021-05-11
 author: ru shui
 category: English
 tag:
-  - english
+  - English
   - Economist
 visitor: false
 article: true
@@ -21,27 +21,29 @@ When Winston Churchill was at Harrow School, he was in the lower stream. This di
 
 Partly thanks to Churchill and the post-war Anglo-American ascendancy, English is these days prized, not despised. Over a billion people speak it as either their first or second language; more still as a third or fourth language. English perfectly exemplifies the "network effect": the more people use it, the more useful is it. English is the language of international business, law, science, medicine, entertainment and--since the second world war, to the fury of the French--diplomacy.
 
-Anybody who wants to make their way in the world must speak it. All of which has, of course, been of great benefit to this newspaper, which has floated on a rising linguistic tide.
+Anybody who wants to make their way in the world must speak it. 
+
+All of which has, of course, been of great benefit to this newspaper, which has floated on a rising linguistic tide.
 
 It is not surprising that there is **surge** in English-medium education all over the world.
 
 In some regions -- such as East Asia and Latin American, the growth is principally among the rich. In others--Africa and South Asia, where former colonies never quite escaped the language's grip--it is happening at all income levels.
 
-Parents' desire for their children to master English is spurring the the growth of private schooling; parents in the **slums** of Delhi and Lagos buy English-medium education **in the hope that** their children would gain a university degree, obtain good jobs and even join a glittering world of global professionals.
+Parents' desire for their children to master English is spurring the growth of private schooling; parents in the **slums** of Delhi and Lagos buy English-medium education **in the hope that** their children would gain a university degree, obtain good jobs and even join a glittering world of global professionals.
 
-Where private sector leads, governments are following.
+Where the private sector leads, governments are following.
 
-Some countries have long chosen to teach in English as a political expedient, because a local language would prove contentious.
+Some countries have long chosen to teach in English as a political expedient, because a local language would prove contentious.;;;;/
 
-But even where public schools teach children in their mother tongue, education authorities are switching to English medium, in part ot stem the outflow into the private sector.
+But even where public schools teach children in their mother tongue, education authorities are switching to English medium, in part to stem the outflow into the private sector.
 
 That has happened in Punjab and Khyber Pakhtunkhwa in Pakistan; many Indian states have started large or small English-medium experiments.
 
-In Africa most children are supported to be taught in a local language in the first few years, but often, **through** parental pressure or a lack of textbooks, it does not happen.
+In Africa, most children are supported to be taught in a local language in the first few years, but often, **through** parental pressure or a lack of textbooks, it does not happen.
 
 Teaching children in English is fine if that is what they say at home or their parents are influent in it.
 
-But this **is not the case** in most public and low-costs private schools.
+But this **is not the case** in most public and low-cost private schools.
 
 Children are taught in a language they don't understand by teachers whose English is poor.
 
@@ -51,7 +53,7 @@ Research demonstrates that children learn more when they are taught in their mot
 
 **In a study of** children in the first three years in 12 schools in Cameroon, those taught in Kom did better than those taught in English in all subjects.
 
-Parents might **say that** the **point** is to prepare children for workplace, and **that** a grasp of English is more use than sums or history.
+Parents might **say that** the **point** is to prepare children for the workplace, and **that** a grasp of English is more use than sums or history.
 
 Yet by year five the children taught in Kom **outperformed** English-medium children even in English.
 
@@ -62,6 +64,13 @@ English should be an important subject at school, but not necessarily the langua
 Unless they are confident of the standard of English **on offer**, parents should choose mother-tongue education.
 
 **Rather than** switching to English-medium teaching, governments fearful of losing **custom** to the private sector should **look at** the many possible ways of improving public schools-limiting the power of **obstructive** teachers' unions, **say**, or handing them over to private-sector managers and developing good curriculums and so on.
+
+Pakistani Punjab has decided to end the English experiment; Uganda has introduced mother-tongue instruction in 12 different languages in the first years of schooling.
+
+More should follow.
+
+After all, it was a good education in his mother tongue, rather than in the classic then favored by the British aristocracy,
+that won Churchill the Novel prize for literature.
 
 ## vocabulary
 
@@ -141,7 +150,7 @@ Unless they are confident of the standard of English **on offer**, parents shoul
 29. curriculum: n. 课程。
     - curriculum vitae(CV)：简历。
 30. introduce: v. （首次）推行，实施（to bring a plan, system or product into use for the first time）
-    - They want to introduce a system identity cards.（他们想**推行**身份证制度）
+30. introduce: v. （首次）推行，实施（to bring a plan, system or product into use for the first time）
     - The store has introduced a new range of food for children.（商店**推出**了一系列新的儿童食品）
 
 ## key structures
@@ -257,7 +266,7 @@ It's not surprising that: xxx, 这并不惊讶
 - **No wonder** there is a surge in "English-medium" education all over the world.（全球各地掀起“英文授课”的教育热潮，这不足为奇）
 - **Small Wonder**, then, that pulse quickened on both sides of the Pacific when Donald Trump, as president-elect, questioned the policy.
 
-- **It may seen surprising** to asset that the genesis of the next crisis is probably lurking in corporate debt.（下一场微积的诱因可能潜伏在企业债务中，这不足为奇。）
+- **It may seem surprising** to asset that the genesis of the next crisis is probably lurking in corporate debt.（下一场危机的诱因可能潜伏在企业债务中，这不足为奇。）
 
 ### sth is all the rage
 
@@ -276,16 +285,16 @@ Africa and South Asia, where former colonies **never quite** escaped the languag
 ### 抽象名词代替动词
 
 Ex1: 近期智能手机销量放缓；对行业来说是一个坏消息。
-Sales of smartphone has slowed recently; It is a bad news for the industry.
+Sales of the smartphone has slowed recently; It is bad news for the industry.
 
 1. 并列句。<br />
-   Sales of smartphone has slowed recently, and this is a bad news for the industry.
+   Sales of the smartphone have slowed recently, and this is bad news for the industry.
 2. 主语从句。<br />
-   That sales of smartphone has slowed recently is a bad news for the industry.
+   That sales of the smartphone have slowed recently is bad news for the industry.
 3. 定语从句。<br />
-   Sales of smartphone has slowed recently, which is a bad news for the industry.
+   Sales of the smartphone have slowed recently, which is bad news for the industry.
 4. **抽象名词**。
-   A recent slowing of smartphone is a bad news for the industry.
+   A recent slowing of the smartphone is bad news for the industry.
 
 Ex2: 他总共获得 4404 美元，在奖金名单上位于第 160 位。
 He won a total of \$4404; That put him in 160th place on the money list.
@@ -303,15 +312,15 @@ He won a total of \$4404; That put him in 160th place on the money list.
 
 in the hope that = in the hope of doing = hoping: 希望
 
-I came to the island **in the hope of** finding a simply way of life.（我来到这个岛上，希望找到一种朴素的生活方式）
+I came to the island **in the hope of** finding a simple way of life.（我来到这个岛上，希望找到一种朴素的生活方式）
 
 ### lead / lead the world in
 
 lead / lead the world in / blaze a trail = 在某方面走在世界的前列
 
 - China leads the world in 5G technology.（中国在 5G 技术方面领先世界）
-- Where tech companies have blazed a trail, others has followed.（科技公司开拓疆土，其他公司紧跟其后）
-- Where starbucks once blazed a trail, chocolatiers are following.（星巴克开拓疆土，其他巧克力产商紧跟其后）
+- Where tech companies have blazed a trail, others have followed.（科技公司开拓疆土，其他公司紧跟其后）
+- Where Starbucks once blazed a trail, chocolatiers are following.（星巴克开拓疆土，其他巧克力产商紧跟其后）
 
 ### long
 
@@ -331,18 +340,18 @@ that has happen in: 用于举例。这在……发生了 / ……就是如此。
 
 ### it is not the case
 
-it us not the case = it does not happen: 事实并非如此
+it is not the case = it does not happen: 事实并非如此
 
 it did in the case of x: x 就是一个例子。
 
-- But **that doest not happen** in most public and private sector.
+- But **that does not happen** in most public and private sector.
 - This can get rise to curious situations, as **it did in the case of** Alfred Bloggs who worked as a dustman for the Ellesmere Corporation
 
 ### 连接词
 
 英语中的连接词（或连词）有时候**暗含**逻辑关系，应该根据上下文进行翻译。
 
-- He hope to be a doctor or an engineer, **until** the collapse of his parents' marriage, threw him back on pingshu to maintain his seven sisters.
+- He hoped to be a doctor or an engineer, **until** the collapse of his parents' marriage, threw him back on pingshu to maintain his seven sisters.
   他希望成为一名医生或者工程师，**但是**后来父母婚姻破裂，他不得不走上评述的道路，来维持七个妹妹的生计。
 
 util: 直到。但是根据上下文，应当翻译为但是。
@@ -394,7 +403,7 @@ in a study of x = research demonstrates that x：一项针对 x 的研究表明�
 
 ### 并列句
 
-Parents might **say that** the point is to prepare children for workplace, and **that** a grasp of English is more use than sums and history.
+Parents might **say that** the point is to prepare children for the workplace, and **that** a grasp of English is more use than sums and history.
 
 Parents might say that A, and that B.
 
@@ -425,7 +434,7 @@ on offer = available = be able to be used: adj. 现有的，有效的
 
 - Customers will evaluate the items **available**.（顾客会评估**现有的**产品）
 - Customers would look at the TVs or dishwashers **on offer**.（顾客会查看**在售的**电视机和洗碗机。）
-- Shoppers enter an electrical store like Best Buy and examin what's **on offer**.（顾客走进百思买这样的电器商店，研究**正在出售的**商品。
+- Shoppers enter an electrical store like Best Buy and examine what's **on offer**.（顾客走进百思买这样的电器商店，研究**正在出售的**商品。
 
 ### rather than
 
@@ -438,12 +447,12 @@ rather than + 否定：与前面形成对比。应该放在翻译句子的后面
    - It **rained** rather than **snowed**.
 
 2. 对于尚未发生的，使用动词原形。
-   - Rather than **cause** trouble,, I'm going to forget the whole affair.
+   - Rather than **cause** trouble, I'm going to forget the whole affair.
    - He **wanted** to sunbathe rather than **swim**.
 
 ### win sb. sth.
 
-win sb. sth. = helpe sb. get sth.：帮助某人得到某物
+win sb. sth. = help sb. get sth.：帮助某人得到某物
 
 - That kind of behavior won't **win you friends**.（那样的行为不会帮你交到朋友的）
 
