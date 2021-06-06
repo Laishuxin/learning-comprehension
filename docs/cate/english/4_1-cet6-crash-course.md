@@ -226,3 +226,240 @@ be served at the beginning or at last.
 ![](./images/2021-05-31-21-59-22.png)
 
 ## 作文
+
+### 分类
+
+1. 议论文
+   - 现象解释型。
+   - 问题解决型。
+   - 观点选择型。
+   - 意义型。
+2. 谚语类
+3. 图表
+
+### 三段论
+
+Due to the proliferation of economy and society, family responsibility has triggered a heated discussion. From my perspectives, I am in line with view that
+
+First off, ...
+Furthermore, ...
+Last but not least, ...
+
+In summary, taking into account all the factors above, I reiterate my standpoint that
+
+### 开头句段
+
+**模板：**
+
+Nowadays, there has been growing awareness that
+\_\_**xxx**\_\_ plays a crucial/significant role
+in \_\_**students' daily life / both individuals and society**\_\_.
+The reasons \_\_**why xxx is important**\_\_ mainly lie
+in the following respects.
+
+#### 示例
+
+1. _the important of a sense of social responsibility_.
+
+   Nowadays, there has been growing awareness that social
+   responsibility plays a crucial role in both individuals
+   and society. The reasons why having a sense of social
+   responsibility is important mainly lie in the following
+   respects.
+
+### 中间段
+
+**模板：**
+
+Firstly, \_\_.
+
+In addition, \_\_.
+
+What's more, \_\_.
+
+### 结尾段
+
+**模板：**
+
+To summarize, \_\_ is prized as a strength for \_\_, and
+only when they \_\_, can they keep pace with the development
+our the ever-growing society and become such persons who
+\_\_.
+
+#### 示例
+
+1. why should students be encouraged to develop communication skill.
+
+To summarize, communication with others effectively is prized as a strength for students, and only when they have
+a grasp of communicating effectively, can they make their
+way in this competitive society and win tickets to
+glittering jobs.
+
+2. why should students be encouraged to develop the ability to meet challenges.
+
+   To summarize, learning is a lifelong skill, and only when students own the ability to meet challenges, can they keep pace with the development of this competitive society and become such persons who develop in an all-around way.
+
+3. why should students be encouraged to develop the ability of creativity.
+
+   To summarize, creativity is prized as a strength for students, and only when they are creative, can they keep pace with the technological innovation tide and become such persons who lead the world ahead.
+
+4. the importance of having a sense of family responsibility.
+
+   To summarize, having a sense of family responsibility is prized as good quality, and only when persons are responsible to their family, can they obtain harmony of family relationship and win social recognitions.
+
+5. the importance of having a sense of community responsibility.
+
+To summarize, having a sense of community responsibility is prized as good quality for persons, and only when they are responsible for their community, can they keep pace with the development of the community and win the recognition of others in the community.
+
+6. the importance of having a sense of social responsibility.
+
+   To summarize, having a sense of social responsibility is prized as good quality for persons, and only when they are responsible for society, can they keep pace with the development of the ever-growing society and become such persons who enjoy social recognition.
+
+## 高级词汇与替换
+
+### 句式
+
+1. with the development of xxx.
+
+   Due to the proliferation of xxx,
+
+2. xxx has more and more xxx.
+
+   xxx has risen steeply.
+
+3. there is no double/denying that: 毫无疑问，
+4. As is known to all: 总所周知，
+5. It is evident that
+6. xxx serves as a remarkable contributor to boosting/enhancing/promoting yyy = xxx plays a crucial role in boosting yyy.
+7. The profound meaning lying in the proverb persuades us to 
+
+### 名词
+
+#### 影响
+
+1. impact
+   - It has exerted a widespread and lasting impact on Chinese culture.
+   - Its impact has gone far beyond the border and a growing number of readers find the stories in the book vivid, moving and interesting.
+2. effect
+3. influence
+   - with the rapid economic growth and increasing global influence of China, more and more foreigners have started to learn Chinese.
+   - It has continually attracted and deeply influenced generations of readers.
+
+产生好的影响：
+
+1. exert a widespread and last impact/influence.
+2. have a salutary effect.
+
+产生坏的影响；
+
+1. impose a negative impact on xxx.
+
+#### 优点
+
+1. advantage
+   - I gained an immense advantage over the cleverer boys. They all went on to learn Latin and Greek and splendid things like that.
+   - Advantages abound,
+2. benefit
+   - All of which has, of course, been of great benefit to this newspaper, which has been floated on a rising linguistic tide.
+3. strength
+   - Tolerance is prized as a strength, not despised as a weakness.
+4. merit
+5. virtue
+
+#### 缺点
+
+1. disadvantage
+2. shortcoming
+3. drawback
+4. flaw
+
+#### 方法
+
+1. approach to
+2. method of doing sth.
+3. means of doing sth.
+
+### 动词
+
+#### 认为
+
+1. reckon
+2. claim
+3. argue
+4. state
+5. assert
+
+#### 表明 (show)
+
+1. reveal
+2. demonstrate
+3. indicate
+
+#### 提高
+
+1. improve
+2. boost
+3. promote
+4. enhance
+
+#### 讨厌
+
+1. hate
+2. dislike
+3. loathe
+   - If you loathe something, you dislike it very much.
+4. abhor
+   - If you abhor something, you hate it very much.
+
+### 形容词
+
+#### 好的 (good)
+
+1. remarkable
+2. tremendous
+3. excellent
+4. superior
+5. outstanding
+
+#### 坏的 (bad)
+
+1. negative
+2. adverse
+3. undesirable
+4. dreadful
+
+#### 重要的
+
+1. important
+2. significant
+3. crucial
+4. critical
+
+#### 大的 (large)
+
+1. gigantic
+2. enormous
+3. tremendous
+4. vast
+5. considerable
+
+### 副词
+
+#### 但是
+
+1. however
+2. nevertheless
+3. nonetheless
+
+#### 因此
+
+1. therefore
+2. hence
+3. thus
+
+#### 非常
+
+1. extremely
+2. exceedingly
+3. outstandingly
+4. exceptionally
