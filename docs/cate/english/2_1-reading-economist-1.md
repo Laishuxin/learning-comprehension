@@ -33,7 +33,7 @@ Parents' desire for their children to master English is spurring the growth of p
 
 Where the private sector leads, governments are following.
 
-Some countries have long chosen to teach in English as a political expedient, because a local language would prove contentious.;;;;/
+Some countries have long chosen to teach in English as a political expedient, because a local language would prove contentious.
 
 But even where public schools teach children in their mother tongue, education authorities are switching to English medium, in part to stem the outflow into the private sector.
 
@@ -70,7 +70,7 @@ Pakistani Punjab has decided to end the English experiment; Uganda has introduce
 More should follow.
 
 After all, it was a good education in his mother tongue, rather than in the classic then favored by the British aristocracy,
-that won Churchill the Novel prize for literature.
+that won Churchill the Novel Prize in Literature.
 
 ## vocabulary
 
