@@ -32,6 +32,7 @@ sticky: true
 
 - [ 英语仿写 - 对立观点 ](./3_1-imitation-opinion.md)
 - [ 英语仿写 - 旅游胜地 ](./3_2-imitation-tourism.md)
+- [ 英语仿写 - 优缺点转换 ](./3_3-imitation-advantage.md)
 
 ## exam
 

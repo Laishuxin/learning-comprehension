@@ -7,4 +7,4 @@ article: false
 ---
 
 - [psychology](./psychology/README.md)
-- [english](./english/README.md)
+- [English](./english/README.md)
