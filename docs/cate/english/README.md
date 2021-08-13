@@ -27,6 +27,7 @@ sticky: true
 
 - [ 英语精读 - 经济学人 - English-medium education ](./2_1-reading-economist-1.md)
 - [ 英语精读 - 经济学人 - Yes we ryokan ](./2_2-reading-economist2.md)
+- [英语精读 - 经济学人 - 海外旅游的利与弊 ](./2_3-reading-economist-3.md)
 
 ## imitation
 
