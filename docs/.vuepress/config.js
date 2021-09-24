@@ -12,12 +12,12 @@ module.exports = config({
   description: `To Build Amazing Things !`,
   theme: 'vuepress-theme-hope',
   head,
-  themeConfig:{
+  themeConfig: {
     author: BLOG_AUTHOR,
     logo: '/assets/img/logo.png',
     blog: {
       sidebarDisplay: true,
-      roundAvatar:false,
+      roundAvatar: false
     },
     nav,
     sidebar,
@@ -35,10 +35,10 @@ module.exports = config({
     photoSwipe: true,
     copyright: {
       status: 'local',
-      minLength: 200,
+      minLength: 200
     },
     comment: {
-      type: 'disable',
+      type: 'disable'
     },
     themeColor: { blue: '#2196f3' },
     mdEnhance: {
@@ -46,10 +46,10 @@ module.exports = config({
       lineNumbers: true,
       presentation: true,
       align: true,
-      footnote: true,
+      footnote: true
     },
     pwa: {
       cacheHTML: false
     }
-  },
+  }
 })

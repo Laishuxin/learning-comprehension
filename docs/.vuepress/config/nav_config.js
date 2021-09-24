@@ -5,7 +5,7 @@ const nav = [
   },
   {
     text: '分类',
-    link: '/category/',
+    link: '/category/'
   },
   {
     text: '标签',

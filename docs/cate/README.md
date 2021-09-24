@@ -8,3 +8,4 @@ article: false
 
 - [psychology](./psychology/README.md)
 - [English](./english/README.md)
+- [Fitness](./fitness/README.md)

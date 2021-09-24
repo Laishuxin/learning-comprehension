@@ -11,3 +11,4 @@ sticky: true
 ---
 
 - [ 习惯 ](./habit.md)
+- [ 计划 ](./plan.md)

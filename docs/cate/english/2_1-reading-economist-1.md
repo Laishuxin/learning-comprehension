@@ -21,7 +21,7 @@ When Winston Churchill was at Harrow School, he was in the lower stream. This di
 
 Partly thanks to Churchill and the post-war Anglo-American ascendancy, English is these days prized, not despised. Over a billion people speak it as either their first or second language; more still as a third or fourth language. English perfectly exemplifies the "network effect": the more people use it, the more useful is it. English is the language of international business, law, science, medicine, entertainment and--since the second world war, to the fury of the French--diplomacy.
 
-Anybody who wants to make their way in the world must speak it. 
+Anybody who wants to make their way in the world must speak it.
 
 All of which has, of course, been of great benefit to this newspaper, which has floated on a rising linguistic tide.
 
@@ -150,7 +150,7 @@ that won Churchill the Novel Prize in Literature.
 29. curriculum: n. 课程。
     - curriculum vitae(CV)：简历。
 30. introduce: v. （首次）推行，实施（to bring a plan, system or product into use for the first time）
-30. introduce: v. （首次）推行，实施（to bring a plan, system or product into use for the first time）
+31. introduce: v. （首次）推行，实施（to bring a plan, system or product into use for the first time）
     - The store has introduced a new range of food for children.（商店**推出**了一系列新的儿童食品）
 
 ## key structures

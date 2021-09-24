@@ -480,7 +480,7 @@ To summarize, taking into account all the factors above, it is advisable to \_\_
 8. be used as a means to xxx.
    - ex1: Developing new energy vehicles can be used as an significant means to solve energy and environmental problems and achieve sustainable development.
 9. exert a positive/widespread/lasting impact on xxx.
-    - ex1: It has exerted a widespread and lasting impact on Chinese culture.
+   - ex1: It has exerted a widespread and lasting impact on Chinese culture.
 10. expose a negative impact on xxx.
 11. make contributions to
     - ex1: So that they can make contributions to our society.
@@ -498,9 +498,8 @@ To summarize, taking into account all the factors above, it is advisable to \_\_
     - ex1: Online education allows them to suspend their classes without postponing their studies.
 3.  lay fundament of xxx.
     - ex1: This book has laid fundament of Traditional Chinese Medicine.
-4. gain a better grasp of the mechanics of doing.
-   - Ex1: Perhaps this because they gain a better grasp of the mechanics of writing and reading when then are learning the skills in a language they understand.
-
+4.  gain a better grasp of the mechanics of doing.
+    - Ex1: Perhaps this because they gain a better grasp of the mechanics of writing and reading when then are learning the skills in a language they understand.
 
 #### environmental protection
 

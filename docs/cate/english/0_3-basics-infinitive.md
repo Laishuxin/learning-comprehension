@@ -20,6 +20,7 @@ sticky: false
 
 特点：不受限制。即，没有人称、单复数以及情态的变化限制。
 什么叫不受限制？考虑下面的例子：
+
 - He wants to go.
 - He wanted to go.
 - They want to go.
@@ -33,15 +34,14 @@ sticky: false
    - I let him **leave**.
    - I have him **look at** my car.
    - She **bide** me to approach her. (bid - bade - bid)
-   <br>
-   **NOTE**: 使役动词转为被动时，to 不能省略。(ex: I was made to laugh by that joke.)
-   
+     <br>
+     **NOTE**: 使役动词转为被动时，to 不能省略。(ex: I was made to laugh by that joke.)
 2. 与感官动词（feel, hear, saw, etc.）连用，表达动作的瞬时性。
    - I saw him **go into** a bank when I was driving home.
    - I hurried after the thief up the stairs into the study and saw him **push** the window open and **jump** off.
    - He saw two thieves **rush out of** a shop and run towards a waiting car.
-   <br/>
-   **NOTE**: 感官动词 + do 与感官动词 + doing 表达效果是不一样的。感官动词 + doing 强调的是动作的持续性（ongoing state）。
+     <br/>
+     **NOTE**: 感官动词 + do 与感官动词 + doing 表达效果是不一样的。感官动词 + doing 强调的是动作的持续性（ongoing state）。
 3. 充当宾语或宾语补足语。
    - She intended **to dress** up as a ghost.
    - Not waiting **to frighten** the poor man.

@@ -38,3 +38,7 @@ sticky: true
 ## exam
 
 - [ 英语六级 - 应试指南 ](./4_1-cet6-crash-course.md)
+
+## writing
+
+- [ 英语写作 - Beginner ](./5_1-writing-beginner.m)
